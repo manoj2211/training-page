@@ -1,0 +1,3 @@
+--first we create a html file
+--add some code on html file
+--give name as main.html
