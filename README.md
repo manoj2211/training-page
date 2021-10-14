@@ -1,3 +1,3 @@
 # training-page
-Just for checking purpose and practice 
+This is sample file for practice github
 Thank you
